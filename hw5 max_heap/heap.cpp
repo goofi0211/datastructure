@@ -32,24 +32,7 @@ int main(){
             cout<<answer;
             delete[] m_heap;
         }
-
-
-
-
-
-
-
-
-
-
-
-
-
 	}
-
-
-
-
 }
 
 void adjust(int i,int* m_heap,int n){
