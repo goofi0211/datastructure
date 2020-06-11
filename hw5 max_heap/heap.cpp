@@ -29,7 +29,7 @@ int main(){
                     adjust(i,m_heap,m);
                 }
             }
-            cout<<answer;
+            cout<<answer<<endl;
             delete[] m_heap;
         }
 	}
